@@ -10,7 +10,7 @@ Temp is a chrome extension to assist people in writing their mail when they have
 ## Installation
 
 To use Chamelo in your chrome browser, follow these steps:
-1. Download the source code from this repo or click [here](https://fantom787/Geeksters/archive/refs/heads/main.zip) to download it and then unzip the files.
+1. Download the source code from this repo or click [here](https://github.com/fantom787/Geeksters/archive/refs/heads/main.zip) to download it and then unzip the files.
 2. Go to google chrome and then click on the extensions icon ![image](https://user-images.githubusercontent.com/65999534/185781474-0fd72351-4424-41a2-aaa1-471364032b2d.png)
 . Alternatively, you can go to settings and then select extensions from the left tab.
 3. Enable the developer mode from the developer mode toogle button the top-right ![image](https://user-images.githubusercontent.com/65999534/185781496-046ed1d8-ad0d-43b4-9e99-b415aba52049.png)
