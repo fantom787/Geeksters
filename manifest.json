@@ -1,0 +1,49 @@
+{
+    "name": "Simplemail",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "Simplemail is an AI assistant that helps you to summarise incoming emails, draft replies and write complete emails from bullet points.",
+    "background.service_worker": {
+        "html": [
+            "background.html"
+        ],
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+
+    "host_permissions": [
+        "https://*/*"
+    ],
+
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "New.js",
+                "jquery.js"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "html": [
+                "background.html"
+            ],
+            "run_at": "document_end",
+            "matches": [
+                "https://mail.google.com/mail/u/0/*"
+            ],
+            "tutorial_page": ["./tutorial.html"]
+        }
+    ],
+
+    
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
