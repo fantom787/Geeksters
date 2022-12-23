@@ -24,11 +24,11 @@ To use Chamelo in your chrome browser, follow these steps:
 Temp offers a number of features to enhance your web experience. The features include:
 
 01. Compose AI --> Compose From Points Write Professional Emails From Notes. You Get Work Done In Only 20% Of Normal Time.
-<img src="images/readme/simplemail generate demo .gif" alt="Castling" height="200">
+<img src="image/readme/simplemail generate demo .gif" alt="Castling" height="200">
 02. Summarise --> Summarize Large Emails Into Points, Precisely!
-<img src="images/readme/simplemail summarise demo.gif" alt="Castling" height="200">
+<img src="image/readme/simplemail summarise demo.gif" alt="Castling" height="200">
 03. AI Reply -->Taking Auto Reply To The Next Level. AI Choose Right Words For You Depending On Your Input And The Situation
-<img src="images/readme/simplemail reply positive demo.gif" alt="Castling" height="200">
+<img src="image/readme/simplemail reply positive demo.gif" alt="Castling" height="200">
 
 
 ## Permissions
