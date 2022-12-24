@@ -1,15 +1,15 @@
-# Temp
+# Geekbot
 <p align="center">
-  <img src="image/readme/4.jpg" alt="CHAMELO!"/>
+  <img src="image/readme/4.jpg" alt="Geekbot!"/>
   <h1 align="center"/>Temp!</h1>
 </p>
 
 
-Temp is a chrome extension to assist people in writing their mail when they have less time for the reply
+Geekbot is a chrome extension to assist people in writing their mail when they have less time for the reply
 
 ## Installation
 
-To use Chamelo in your chrome browser, follow these steps:
+To use Geekbot in your chrome browser, follow these steps:
 1. Download the source code from this repo or click [here](https://github.com/fantom787/Geeksters/archive/refs/heads/main.zip) to download it and then unzip the files.
 2. Go to google chrome and then click on the extensions icon ![image](https://user-images.githubusercontent.com/65999534/185781474-0fd72351-4424-41a2-aaa1-471364032b2d.png)
 . Alternatively, you can go to settings and then select extensions from the left tab.
@@ -21,7 +21,7 @@ To use Chamelo in your chrome browser, follow these steps:
 
 ## Features
 
-Temp offers a number of features to enhance your web experience. The features include:
+Geekbot offers a number of features to enhance your web experience. The features include:
 
 01. Compose AI --> Compose From Points Write Professional Emails From Notes. You Get Work Done In Only 20% Of Normal Time.
 <img src="image/readme/1.gif" alt="Castling" height="200">
