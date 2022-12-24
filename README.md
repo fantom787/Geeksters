@@ -1,7 +1,7 @@
 # Geekbot
 <p align="center">
   <img src="image/readme/4.jpg" alt="Geekbot!"/>
-  <h1 align="center"/>Temp!</h1>
+  <h1 align="center"/>Geekbot!</h1>
 </p>
 
 
